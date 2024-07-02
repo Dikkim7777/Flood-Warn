@@ -1,0 +1,22 @@
+.header {
+  position: relative;
+}
+.marker-icon {
+  color: "red";
+}
+
+path {
+  fill: red;
+}
+
+.dangerLevelText {
+  color: red;
+}
+.warningText {
+  color: rgb(190, 144, 59);
+
+  padding: 0;
+}
+.steadyText {
+  color: green;
+}
